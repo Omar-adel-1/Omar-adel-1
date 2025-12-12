@@ -32,16 +32,10 @@
   <br/><br/>
 
   <h2>📊 My GitHub Stats</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Omar-adel-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Omar's Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-adel-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
-  </div>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-adel-1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-  <br/><br/>
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-adel-1&theme=radical&hide_border=true&background=0d1117" alt="streak" />
+</div>
+<br/>
 
   <h2>📫 Connect with Me</h2>
   <a href="mailto:oaabouzeid@gmail.com">
@@ -54,4 +48,4 @@
 </div>
 
 ---
-<p align="center">Made with ❤️ by Omar Adel Abouzeid</p>
+<p align="center"></p>
