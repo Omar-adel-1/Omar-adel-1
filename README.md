@@ -33,13 +33,13 @@
 
   <h2>📊 My GitHub Stats</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Omar's Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Omar-adel-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Omar's Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-adel-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
   </div>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-adel-1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
   <br/><br/>
 
