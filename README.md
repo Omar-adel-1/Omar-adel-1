@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Omar%20Adel%20Abouzeid&fontSize=80&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" alt="Omar Adel Header" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Omar+Adel+Abouzeid;Backend+Developer;Problem+Solver..." alt="Typing SVG" />
+  </a>
+
 </div>
 
-<div align="center">
-
-  <h1>👨‍💻 About Me</h1>
-  <p>
-    Welcome to my profile! I am a passionate <strong>Computer Science Student</strong> and a <strong>Backend Developer</strong> with a knack for <br> complex problem solving and algorithm optimization.
-  </p>
-  
-  <p>
-    Currently focusing on building scalable systems and mastering low-level concepts.
-  </p>
-
-  <br/>
+### 👨‍💻 User Profile: Omar
+```python
+class Omar_Adel:
+    def __init__(self):
+        self.name = "Omar Adel Abouzeid"
+        self.role = "CS Student 🎓 | Backend Developer ⚙️"
+        self.code = ["C", "C++", "C#", "Python", "Java", "Go"]
+        self.
 
   <h2>🚀 Languages & Tools</h2>
   
