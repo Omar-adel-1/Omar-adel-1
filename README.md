@@ -11,7 +11,7 @@
 
   <h1>👨‍💻 About Me</h1>
   <p>
-    Welcome to my profile! I am a passionate <strong>Computer Science Student</strong> and a <strong>Backend Developer</strong> and passionate for a<br> complex problem solving and algorithm optimization.
+    Welcome to my profile! I am a passionate <strong>Computer Science Student</strong> and  passionate for a<br> complex problem solving and algorithm optimization.
   </p>
   
   <p>
