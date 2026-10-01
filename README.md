@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=I+want+fix+the+world!+,but;They+won't+give+me;the+source+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500+,alt="Typing SVG" />
   </a>
 
 <div align="center">
@@ -13,7 +13,8 @@
 
   
   <p>
-    Currently focusing on building scalable systems and mastering low-level concepts.
+     Welcome to my profile! I am a passionate Computer Science Student and passionate for a
+     complex problem solving and algorithm optimizat
   </p>
 
   <br/>
