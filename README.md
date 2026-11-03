@@ -33,16 +33,6 @@ I'm **Omar Adel Abouzeid**, a Flutter developer from Egypt. I study Computer Sci
 
 <img src="./divider.svg" width="100%" alt="" />
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Omar-adel-1/Nectar-Store"><img src="./project-nectar-store.svg" width="400" alt="Nectar Store — Flutter grocery shopping app, Mobile app · E-commerce" /></a>
-  <a href="https://github.com/Omar-adel-1/Stude-Mate"><img src="./project-stude-mate.svg" width="400" alt="Stude-Mate — student-focused learning companion UI concept built with Flutter" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Omar-adel-1/LOOMA"><img src="./project-looma.svg" width="400" alt="LOOMA — Flutter fashion e-commerce UI" /></a>
-  <a href="https://github.com/Omar-adel-1/Geometric-Data-Visualization-System"><img src="./project-geometric-data-visualization-system.svg" width="400" alt="Geometric Data Visualization System — Java Swing application" /></a>
-</p>
 
 <img src="./divider.svg" width="100%" alt="" />
 
