@@ -27,7 +27,7 @@ I'm **Omar Adel Abouzeid**, a Flutter developer from Egypt. I study Computer Sci
 
 <div align="center">
 
-<img src="./skills.svg" width="700" alt="Languages: Dart, C++, C, C#, Java, Python. Frameworks: Flutter. Databases: Firebase, Firestore, MySQL. Tools: Git, GitHub, Linux." />
+<img src="./skills.svg" width="700" alt="Languages: Dart, C++, C, C#, Java, Python. Frameworks: Flutter. Databases: Firebase, MySQL. Tools: Git, GitHub, Linux." />
 
 </div>
 
